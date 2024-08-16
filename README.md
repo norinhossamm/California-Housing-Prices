@@ -52,4 +52,4 @@ The study used regression models, including Random Forest, SVM, Linear Regressio
 <img width="402" alt="Screenshot 2024-08-06 at 11 15 12 PM" src="https://github.com/user-attachments/assets/fdcf4880-c50d-42fd-a720-bb22953ff550">
 </div>
 
-The "California Housing Prices" project aimed to predict house prices using the California housing dataset through five machine learning algorithms: Linear Regression, Random Forest, Gradient Boosting, Decision Tree, and SVM. After analyzing correlations within the dataset and applying these models, performance was evaluated using MAE, RMSE, R², and MAPE metrics. The Random Forest model demonstrated superior performance, achieving an accuracy of 82.55%.
+The "California Housing Prices" project aimed to predict house prices using the California housing dataset through five machine learning algorithms: Linear Regression, Random Forest, Gradient Boosting, Decision Tree, and SVM. After analyzing correlations within the dataset and applying these models, performance was evaluated using MAE, RMSE, R², and MAPE metrics. The Random Forest model demonstrated superior performance, achieving a score of 82.55%.
